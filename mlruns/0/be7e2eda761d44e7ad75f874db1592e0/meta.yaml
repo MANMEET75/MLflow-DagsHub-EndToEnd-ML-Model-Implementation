@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MANMEET/MLflow/mlruns/0/be7e2eda761d44e7ad75f874db1592e0/artifacts
+end_time: 1690721968533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be7e2eda761d44e7ad75f874db1592e0
+run_name: debonair-shrew-826
+run_uuid: be7e2eda761d44e7ad75f874db1592e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690721963643
+status: 3
+tags: []
+user_id: Admin
